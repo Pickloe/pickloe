@@ -14,6 +14,6 @@ With a love for problem-solving, I am committed to creating efficient and elegan
 
 ### 🤝 Connect with me:
 
-<p><img align="left" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>Pickloe#0001</p>
+<p><img align="left" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/>Pickloe</p>
 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
